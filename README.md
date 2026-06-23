@@ -71,3 +71,27 @@ The objective was to establish secure communication between EC2 instances deploy
 ## Outcome
 
 Successfully established communication between EC2 instances across two AWS VPCs using VPC Peering. Gained hands-on experience with AWS networking, routing, subnet design, and network connectivity troubleshooting.
+
+
+
+## Screenshots
+
+### 1. Architecture Diagram
+
+![Architecture Diagram](architecture-diagram.png)
+
+### 2. VPC Peering Connection (Active)
+
+![VPC Peering](screenshots/peering-active.png)
+
+### 3. Route Tables Configuration
+
+![Route Tables](screenshots/route-tables.png)
+
+### 4. EC2 Instances
+
+![EC2 Instances](screenshots/ec2-instances.png)
+
+### 5. Connectivity Test (Ping)
+
+![Ping Test](screenshots/ping-test.png)
