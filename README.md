@@ -78,7 +78,7 @@ Successfully established communication between EC2 instances across two AWS VPCs
 
 ### 1. Architecture Diagram
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 ### 2. VPC Peering Connection (Active)
 
